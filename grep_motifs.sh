@@ -1,0 +1,1 @@
+grep -f DEG_IDs -A13 TAIR10_upstream_1000_translation_start_20101028
